@@ -1,0 +1,2 @@
+# mikutter PulseAudio プラグイン
+paplayコマンドを使って通知音を再生するためのプラグイン

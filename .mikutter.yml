@@ -1,0 +1,9 @@
+---
+slug: :pulseaudio
+depends:
+  mikutter: '0.2'
+  plugin: [sound]
+version: '1.0'
+author: yuntan_t
+name: PulseAudio
+description: paplay コマンドを用いてサウンドを再生する
